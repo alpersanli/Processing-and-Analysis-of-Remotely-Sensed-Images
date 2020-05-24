@@ -1,7 +1,7 @@
 # Processing-and-Analysis-of-Remotely-Sensed-Images
 
 ## QGIS 
- Bursa , Turkey 
+ Location = Bursa , Turkey 
  
  Name = Satellite / Date
  
