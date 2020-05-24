@@ -3,7 +3,7 @@
 ## QGIS 
  Bursa , Turkey 
  
- name = Satellite / Date
+ Name = Satellite / Date
  
  1.JPG = Sentinel 2 / 2019.10.02
 
