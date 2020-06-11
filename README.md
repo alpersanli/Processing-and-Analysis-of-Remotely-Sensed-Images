@@ -1,6 +1,6 @@
 # Processing-and-Analysis-of-Remotely-Sensed-Images
 
-## QGIS 
+## QGIS PLEASE READ goruntuler.pdf
  Location = Bursa , Turkey 
  
  Name = Satellite / Date
