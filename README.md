@@ -35,3 +35,5 @@
  SAVI
  
  MNDWI
+
+ ## For histogram graph histogram.py
